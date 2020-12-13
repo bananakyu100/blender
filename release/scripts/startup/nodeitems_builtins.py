@@ -495,6 +495,7 @@ geometry_node_categories = [
         NodeItem("GeometryNodeTransform"),
         NodeItem("GeometryNodeBoolean"),
         NodeItem("GeometryNodeJoinGeometry"),
+        NodeItem("GeometryNodeNewPrimitives"),
     ]),
     GeometryNodeCategory("GEO_INPUT", "Input", items=[
         NodeItem("GeometryNodeObjectInfo"),

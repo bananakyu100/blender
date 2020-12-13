@@ -152,6 +152,7 @@ set(SRC
   geometry/nodes/node_geo_subdivision_surface.cc
   geometry/nodes/node_geo_transform.cc
   geometry/nodes/node_geo_triangulate.cc
+  geometry/nodes/node_geo_new_primitives.cc
   geometry/node_geometry_exec.cc
   geometry/node_geometry_tree.cc
   geometry/node_geometry_util.cc
